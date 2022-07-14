@@ -1,18 +1,12 @@
 ### Hi there 👋
 
-### Now Playing — Spotify 🎧
+### Now Playing - Spotify 🎧
 <p>
-<a href=”https://spotify-github-profile.vercel.app/api/view?uid=amackzie&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view?uid=amackzie&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)"/>
-</a>
-</p>
-
-## Now Playing — Spotify 🎧
-<p>
-<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
-</a>
-</p>
+ <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=amackzie&redirect=true">
+   <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=amackzie&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+ </a>
+ </p>
+ 
 
 <!--
 **zessu/zessu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
