@@ -4,9 +4,9 @@
 
 **Stack**: Typescript, React, GraphQL, AWS CDK, NodeJS
 
-**Hobbies**: Reading 📚 The Beach 🏝️ Travel 🏝✈️
+**Hobbies**: Reading 📚 The Beach 🏝️ Travel ✈️
 
-**Currently learning**: Cybersecurity, Flutter, Business
+**Currently learning**: Cybersecurity, Flutter, Startups
 
 **Ask me about**: What I learned last
 
