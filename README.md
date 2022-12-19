@@ -21,7 +21,7 @@
 
 **Work**: Senior fullstack engineer at [SmokeBall](https://www.smokeball.com/)
 
-**Stack**: Typescript, React, GraphQL, AWS CDK, NodeJS
+**Stack**: Typescript, React, GraphQL, AWS, NodeJS, Microservices, Serverless (CDK, Cloudformation, SAM)
 
 **Hobbies**: Reading 📚 The Beach 🏝️ Travel ✈️
 
