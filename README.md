@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <div align="left">
-  <a href="https://twitter.com/zessu">
+  <a href="https://twitter.com/amackzie">
     <img
       src="https://img.shields.io/twitter/follow/omBratteng?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
       alt="Twitter"
