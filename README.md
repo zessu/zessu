@@ -23,7 +23,7 @@
 
 **Stack**: Typescript, React, GraphQL, AWS, NodeJS, Microservices, Serverless (CDK, Cloudformation, SAM)
 
-**Hobbies**: Reading 📚 The Beach 🏝️ Travel ✈️
+**Hobbies**: Reading 📚 The Beach 🏝️ Travel ✈️ Sea Food 🦞🦀🦈
 
 **Currently learning**: Cybersecurity, Flutter, Startups, Blockchain
 
