@@ -31,7 +31,7 @@
 
 **Fun fact**: I am a music producer and DJ 🎧
 
-**Ambitions**: Become an internationally recognised music producer and own a restaurant
+**Short Term**: make more music, own a restaurant and change the world through startups
 
 
 
