@@ -25,7 +25,7 @@
 
 **Hobbies**: Reading 📚 The Beach 🏝️ Travel ✈️
 
-**Currently learning**: Cybersecurity, Flutter, Startups
+**Currently learning**: Cybersecurity, Flutter, Startups, Blockchain
 
 **Ask me about**: What I learned last
 
