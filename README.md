@@ -31,7 +31,7 @@
 
 **Fun fact**: I am a music producer and DJ 🎧
 
-**Short Term**: make more music, own a restaurant and change the world through startups
+**Short Term**: make more music, own a restaurant and change the world through innovation
 
 
 
