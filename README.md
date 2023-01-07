@@ -33,6 +33,8 @@
 
 **Short Term**: make more music, own a restaurant and change the world through innovation
 
+**How to reach me**: r4sttyxgl5091v@duck.com
+
 
 
 ### What I am currently listening to 🎧
@@ -44,18 +46,3 @@
  
 <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=amackzie&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
  
-
-<!--
-**zessu/zessu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
