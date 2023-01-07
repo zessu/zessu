@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 I'm Andrew
 
 <div align="left">
   <a href="https://twitter.com/amackzie">
@@ -19,9 +19,9 @@
 </div>
 
 
-**Work**: Senior fullstack engineer at [SmokeBall](https://www.smokeball.com/)
+**Currently**: Senior fullstack engineer at [SmokeBall](https://www.smokeball.com/)
 
-**Stack**: Typescript, React, GraphQL, AWS, NodeJS, Microservices, Serverless (CDK, Cloudformation, SAM)
+**Fav Stack**: Typescript, React, GraphQL, AWS, NodeJS, Microservices, Serverless (CDK, Cloudformation, SAM)
 
 **Hobbies**: Reading 📚 The Beach 🏝️ Travel ✈️ Sea Food 🦞🦀🦈
 
