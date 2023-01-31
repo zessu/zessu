@@ -47,7 +47,7 @@
 
 **Fun fact**: I am a music producer and DJ 🎧
 
-**Short Term**: make more music, own a restaurant and change the world through innovation
+**Short Term**: make more music, own a restaurant and change my community through innovation
 
 **How to reach me**: r4sttyxgl5091v@duck.com
 
