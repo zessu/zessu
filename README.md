@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Andrew 
+# Hi there 👋 I'm Andrew (Currently mostly on BitBucket)
 
 <div align="center" class="gifs" style="border: 1px solid red">
     <img height=48 src=https://distok.top/stickers/817709667701751820/819128604311027752.gif />
