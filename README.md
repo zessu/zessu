@@ -34,7 +34,6 @@
 <p> I love cooking, I love art. I probably spend more time behind my computer programming than I should. My music taste is diverse but I mostly listen to Electronic music (DnB, Dubstep) when I am by myself. I am also a music producer</p>
 
 
-
 **Currently**: Senior fullstack engineer at [SmokeBall](https://www.smokeball.com/)
 
 **Fav Stack**: Typescript, React, GraphQL, AWS, NodeJS, Microservices, Serverless (CDK, Cloudformation, SAM)
@@ -61,7 +60,3 @@
        <img src="https://spotify-github-profile.vercel.app/api/view.svg?                        uid=amackzie&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
      </a>
  </p>
- 
- <p>
- </p>
- 
