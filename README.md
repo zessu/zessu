@@ -51,8 +51,8 @@
 
 **How to reach me**: r4sttyxgl5091v@duck.com
 
-<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=amackzie"/></a>
 
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=amackzie&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 
 ### What I am currently listening to 🎧
