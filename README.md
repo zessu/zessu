@@ -51,6 +51,8 @@
 
 **How to reach me**: r4sttyxgl5091v@duck.com
 
+<a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=amackzie"/></a>
+
 
 
 ### What I am currently listening to 🎧
@@ -61,6 +63,5 @@
  </p>
  
  <p>
-     <a href="https://gtce.itsvg.in/"><img src="https://gtce.itsvg.in/api?username=amackzie"/></a>
  </p>
  
