@@ -50,9 +50,8 @@
 
 **How to reach me**: r4sttyxgl5091v@duck.com
 
-
-<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?username=amackzie&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
-
+<!--
+<a href="https://github.com/VishwaGauravIn/github-twitter-card-embed"><img src="https://gtce.itsvg.in/api?## username=amackzie&theme=dracula&response=true&border=true&time=true&icon=default"/></a>
 
 ### What I am currently listening to 🎧
 <p>
@@ -60,3 +59,5 @@
        <img src="https://spotify-github-profile.vercel.app/api/view.svg?                        uid=amackzie&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
      </a>
  </p>
+ */
+-->
