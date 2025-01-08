@@ -25,9 +25,11 @@
       alt="LinkedIn"
     />
   </a>
-    
-<a href="https://app.daily.dev/amackzie"><img  width="256"
-      align="right" src="https://api.daily.dev/devcards/fd61670a8cbe40fda6345c0bb1da45f3.png?r=k4n" width="400" alt="Andrew Makenzi's Dev Card"/></a>
+
+    <a href="https://app.daily.dev/amackzie">
+    <img src="https://api.daily.dev/devcards/v2/e3WAjvDIfWLZ0m8vYdPLe.png?type=default&r=3qb" width="256" align="right" alt="Andrew Makenzi's Dev Card"/>
+    </a>
+
 </div>
 
 ### About Me
