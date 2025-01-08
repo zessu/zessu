@@ -26,10 +26,9 @@
     />
   </a>
 
-    <a href="https://app.daily.dev/amackzie">
+<a href="https://app.daily.dev/amackzie">
     <img src="https://api.daily.dev/devcards/v2/e3WAjvDIfWLZ0m8vYdPLe.png?type=default&r=3qb" width="256" align="right" alt="Andrew Makenzi's Dev Card"/>
-    </a>
-
+</a>
 </div>
 
 ### About Me
