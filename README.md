@@ -31,6 +31,8 @@
 </div>
 
 ### About Me
+
+My blog : [drew.is-a.dev](https://drew.is-a.dev/)
 <p> I love cooking, I love art. I probably spend more time behind my computer programming than I should. My music taste is diverse but I mostly listen to Electronic music (DnB, Dubstep) when I am by myself. I am also a music producer</p>
 
 
