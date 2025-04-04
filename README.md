@@ -18,12 +18,6 @@
       alt="Twitter"
     />
   </a>
-  <a href="https://www.linkedin.com/in/wambuamakenzi/">
-    <img
-      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
-      alt="LinkedIn"
-    />
-  </a>
 
 <a href="https://app.daily.dev/amackzie">
     <img src="https://api.daily.dev/devcards/v2/e3WAjvDIfWLZ0m8vYdPLe.png?type=default&r=3qb" width="256" align="right" alt="Andrew Makenzi's Dev Card"/>
