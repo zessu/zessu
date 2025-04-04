@@ -34,11 +34,11 @@ My blog : [drew.is-a.dev](https://drew.is-a.dev/)
 
 **Hobbies**: Reading 📚 The Beach 🏝️ Travel ✈️ Sea Food 🦞🦀🦈
 
-**Currently learning**: Cybersecurity, Flutter, Startups, Blockchain, Data Engineering
+**Currently learning**: PenTesting, Malware development, Blockchain, EntrePreneurship, Leadership
 
 **Ask me about**: What I learned last
 
-**Fun fact**: I am a music producer and DJ 🎧
+**Fun fact**: I make dubstep and DJ 🎧
 
 **Short Term**: make more music, own a restaurant and change my community through innovation
 
