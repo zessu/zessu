@@ -34,7 +34,7 @@ My blog : [drew.is-a.dev](https://drew.is-a.dev/)
 
 **Hobbies**: Reading 📚 The Beach 🏝️ Travel ✈️ Sea Food 🦞🦀🦈
 
-**Currently learning**: PenTesting, Malware development, Blockchain, EntrePreneurship, Leadership
+**Currently learning**: PenTesting, Malware development, Blockchain, Entrepreneurship, Web Development
 
 **Ask me about**: What I learned last
 
